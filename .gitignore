@@ -1,0 +1,9 @@
+node_modules/
+dist/
+docs/
+doc/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+微信图片_*.png
